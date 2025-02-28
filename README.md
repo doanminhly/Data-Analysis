@@ -4,8 +4,8 @@ This project analyzes the factors affecting food delivery time and customer sati
  
 ## 📂 Files  
 - `food_delivery_analysis.pdf` - A PDF with insights and visualizations.  
-- `dataset.csv` - Raw data used for analysis.  
-- `dashboard.pbix` - Power BI dashboard file.  
+- `food_delivery_time_data.xlsx` - Raw data used for analysis.  
+- `food_delivery.pbix` - Power BI dashboard file.  
 
 ## 🔍 Key Findings  
 ✅ Distance isn't the only factor affecting delivery time.  
